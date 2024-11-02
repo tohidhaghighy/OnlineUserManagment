@@ -1,0 +1,46 @@
+[
+  {
+    "ContainingType": "FastEndpoints.MainExtensions\u002B\u003C\u003Ec",
+    "Method": "\u003CMapFastEndpoints\u003Eb__2_1",
+    "RelativePath": "api/user/adduser",
+    "HttpMethod": "POST",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "AddOnlineUserRequest",
+        "Type": "OnlineUserManagment.Domain.Dtos.AddOnlineUser.AddOnlineUserRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "OnlineUserManagment.Domain.Dtos.AddOnlineUser.AddOnlineUserResponce",
+        "MediaTypes": [
+          "application/json"
+        ],
+        "StatusCode": 200
+      }
+    ],
+    "EndpointName": "OnlineUserManagmentFeaturesOnlineUserCommandsAddOnlineUser"
+  },
+  {
+    "ContainingType": "FastEndpoints.MainExtensions\u002B\u003C\u003Ec",
+    "Method": "\u003CMapFastEndpoints\u003Eb__2_1",
+    "RelativePath": "api/user/getUserCount",
+    "HttpMethod": "GET",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "OnlineUserManagment.Domain.Dtos.GetOnlineUser.GetOnlineUserResponce",
+        "MediaTypes": [
+          "application/json"
+        ],
+        "StatusCode": 200
+      }
+    ],
+    "EndpointName": "OnlineUserManagmentFeaturesOnlineUserQueriesGetOnlineUserCount"
+  }
+]
