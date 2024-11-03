@@ -62,6 +62,7 @@ D:\Vira\OnlineUserManagment\OnlineUserManagment\bin\Debug\net8.0\FastEndpoints.A
 D:\Vira\OnlineUserManagment\OnlineUserManagment\bin\Debug\net8.0\FastEndpoints.Messaging.Core.dll
 D:\Vira\OnlineUserManagment\OnlineUserManagment\bin\Debug\net8.0\FastEndpoints.Swagger.dll
 D:\Vira\OnlineUserManagment\OnlineUserManagment\bin\Debug\net8.0\FluentValidation.dll
+D:\Vira\OnlineUserManagment\OnlineUserManagment\bin\Debug\net8.0\LiteDB.dll
 D:\Vira\OnlineUserManagment\OnlineUserManagment\bin\Debug\net8.0\Namotion.Reflection.dll
 D:\Vira\OnlineUserManagment\OnlineUserManagment\bin\Debug\net8.0\Newtonsoft.Json.dll
 D:\Vira\OnlineUserManagment\OnlineUserManagment\bin\Debug\net8.0\NJsonSchema.dll
@@ -88,6 +89,7 @@ D:\Vira\OnlineUserManagment\OnlineUserManagment\obj\Debug\net8.0\OnlineUserManag
 D:\Vira\OnlineUserManagment\OnlineUserManagment\obj\Debug\net8.0\OnlineUserManagment.csproj.CoreCompileInputs.cache
 D:\Vira\OnlineUserManagment\OnlineUserManagment\obj\Debug\net8.0\OnlineUserManagment.MvcApplicationPartsAssemblyInfo.cs
 D:\Vira\OnlineUserManagment\OnlineUserManagment\obj\Debug\net8.0\OnlineUserManagment.MvcApplicationPartsAssemblyInfo.cache
+D:\Vira\OnlineUserManagment\OnlineUserManagment\obj\Debug\net8.0\OnlineUserManagment.sourcelink.json
 D:\Vira\OnlineUserManagment\OnlineUserManagment\obj\Debug\net8.0\staticwebassets.build.json
 D:\Vira\OnlineUserManagment\OnlineUserManagment\obj\Debug\net8.0\staticwebassets.development.json
 D:\Vira\OnlineUserManagment\OnlineUserManagment\obj\Debug\net8.0\staticwebassets\msbuild.OnlineUserManagment.Microsoft.AspNetCore.StaticWebAssets.props
@@ -102,5 +104,3 @@ D:\Vira\OnlineUserManagment\OnlineUserManagment\obj\Debug\net8.0\refint\OnlineUs
 D:\Vira\OnlineUserManagment\OnlineUserManagment\obj\Debug\net8.0\OnlineUserManagment.pdb
 D:\Vira\OnlineUserManagment\OnlineUserManagment\obj\Debug\net8.0\OnlineUserManagment.genruntimeconfig.cache
 D:\Vira\OnlineUserManagment\OnlineUserManagment\obj\Debug\net8.0\ref\OnlineUserManagment.dll
-D:\Vira\OnlineUserManagment\OnlineUserManagment\bin\Debug\net8.0\LiteDB.dll
-D:\Vira\OnlineUserManagment\OnlineUserManagment\obj\Debug\net8.0\OnlineUserManagment.sourcelink.json
