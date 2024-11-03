@@ -1,12 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "wij3kpiOAo5ZFQvDAKgPuOI019Sylrk1p/Lnkb7I4qtuSQA6Lpv8/TWRM0zHhSvBt7PGUGy6xDe/vvQnp6BISQ==",
+  "dgSpecHash": "0PucOFvmeMyAj8iI3dXcTD4l+l/P/H700tpsjm2DlgQ7wOQIxdJUyi/5zDXtL5huwayKJOyoi0Fw5e2OPJpRwg==",
   "success": true,
   "projectFilePath": "D:\\Vira\\OnlineUserManagment\\OnlineUserManagment.Infrastructure\\OnlineUserManagment.Infrastructure.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\t.haghighi\\.nuget\\packages\\litedb\\5.0.21\\litedb.5.0.21.nupkg.sha512",
     "C:\\Users\\t.haghighi\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
     "C:\\Users\\t.haghighi\\.nuget\\packages\\pipelines.sockets.unofficial\\2.2.8\\pipelines.sockets.unofficial.2.2.8.nupkg.sha512",
     "C:\\Users\\t.haghighi\\.nuget\\packages\\stackexchange.redis\\2.8.16\\stackexchange.redis.2.8.16.nupkg.sha512",
+    "C:\\Users\\t.haghighi\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
     "C:\\Users\\t.haghighi\\.nuget\\packages\\system.io.pipelines\\5.0.1\\system.io.pipelines.5.0.1.nupkg.sha512"
   ],
   "logs": []

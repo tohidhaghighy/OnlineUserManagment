@@ -28,3 +28,4 @@ D:\Vira\OnlineUserManagment\OnlineUserManagment.Infrastructure\obj\Debug\net8.0\
 D:\Vira\OnlineUserManagment\OnlineUserManagment.Infrastructure\obj\Debug\net8.0\refint\OnlineUserManagment.Infrastructure.dll
 D:\Vira\OnlineUserManagment\OnlineUserManagment.Infrastructure\obj\Debug\net8.0\OnlineUserManagment.Infrastructure.pdb
 D:\Vira\OnlineUserManagment\OnlineUserManagment.Infrastructure\obj\Debug\net8.0\ref\OnlineUserManagment.Infrastructure.dll
+D:\Vira\OnlineUserManagment\OnlineUserManagment.Infrastructure\obj\Debug\net8.0\OnlineUserManagment.Infrastructure.sourcelink.json

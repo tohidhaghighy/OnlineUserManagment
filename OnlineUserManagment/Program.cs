@@ -11,6 +11,7 @@ var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSingleton<IConnectionMultiplexer>(ConnectionMultiplexer.Connect(builder.Configuration["Redis:ConnectionString"]));
+builder.Services.AddSingleton<ILiteDBService, LiteDBService>();
 builder.Services.AddSingleton<IUserTrackingService, UserTrackingService>();
 builder.Services.AddFastEndpoints().SwaggerDocument();
 

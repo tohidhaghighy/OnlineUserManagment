@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "zNgm0vdqnFuDjB9tIHjSGxrwaBf4yQSPCiiUn1VH0XMmO+RTPvqtnrGUUh9dGwxqhZn0XQdOjz1pAbo15v0ncQ==",
+  "dgSpecHash": "7nFVtj9OS3ucRCegF4Hg951KOOMIuEp8V2wy+YcxYCI6Z207qbOIYHGH14IeAuNnfOooYO88VxRtUzeQbYGL/Q==",
   "success": true,
   "projectFilePath": "D:\\Vira\\OnlineUserManagment\\OnlineUserManagment\\OnlineUserManagment.csproj",
   "expectedPackageFiles": [
@@ -9,6 +9,7 @@
     "C:\\Users\\t.haghighi\\.nuget\\packages\\fastendpoints.messaging.core\\5.30.0\\fastendpoints.messaging.core.5.30.0.nupkg.sha512",
     "C:\\Users\\t.haghighi\\.nuget\\packages\\fastendpoints.swagger\\5.30.0\\fastendpoints.swagger.5.30.0.nupkg.sha512",
     "C:\\Users\\t.haghighi\\.nuget\\packages\\fluentvalidation\\11.10.0\\fluentvalidation.11.10.0.nupkg.sha512",
+    "C:\\Users\\t.haghighi\\.nuget\\packages\\litedb\\5.0.21\\litedb.5.0.21.nupkg.sha512",
     "C:\\Users\\t.haghighi\\.nuget\\packages\\microsoft.csharp\\4.3.0\\microsoft.csharp.4.3.0.nupkg.sha512",
     "C:\\Users\\t.haghighi\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.3\\microsoft.extensions.apidescription.server.6.0.3.nupkg.sha512",
     "C:\\Users\\t.haghighi\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
@@ -34,6 +35,7 @@
     "C:\\Users\\t.haghighi\\.nuget\\packages\\nswag.generation.aspnetcore\\14.1.0\\nswag.generation.aspnetcore.14.1.0.nupkg.sha512",
     "C:\\Users\\t.haghighi\\.nuget\\packages\\pipelines.sockets.unofficial\\2.2.8\\pipelines.sockets.unofficial.2.2.8.nupkg.sha512",
     "C:\\Users\\t.haghighi\\.nuget\\packages\\stackexchange.redis\\2.8.16\\stackexchange.redis.2.8.16.nupkg.sha512",
+    "C:\\Users\\t.haghighi\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
     "C:\\Users\\t.haghighi\\.nuget\\packages\\system.collections\\4.3.0\\system.collections.4.3.0.nupkg.sha512",
     "C:\\Users\\t.haghighi\\.nuget\\packages\\system.diagnostics.debug\\4.3.0\\system.diagnostics.debug.4.3.0.nupkg.sha512",
     "C:\\Users\\t.haghighi\\.nuget\\packages\\system.dynamic.runtime\\4.3.0\\system.dynamic.runtime.4.3.0.nupkg.sha512",

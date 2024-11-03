@@ -5,7 +5,7 @@ using OnlineUserManagment.Domain.Dtos.AddOnlineUser;
 
 namespace OnlineUserManagment.Features.OnlineUser.Commands
 {
-    public class AddOnlineUser(IUserTrackingService userTrackingService) : Endpoint<AddOnlineUserRequest, AddOnlineUserResponce>
+    public class AddOnlineUser(IUserTrackingService userTrackingService, ILiteDBService liteDbService) : Endpoint<AddOnlineUserRequest, AddOnlineUserResponce>
     {
         public override void Configure()
         {
@@ -18,7 +18,11 @@ namespace OnlineUserManagment.Features.OnlineUser.Commands
             try
             {
                 await userTrackingService.UserOnlineAsync(JsonSerializer.Serialize(req));
-                
+                liteDbService.InsertUserInfo(new Domain.Dtos.LiteDbUserInfo.UserInfo()
+                {
+                    CreatedAt = DateTime.Now,
+                    UserData = JsonSerializer.Serialize(req)
+                });
             }
             catch (Exception ex)
             {

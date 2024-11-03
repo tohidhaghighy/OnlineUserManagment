@@ -20,3 +20,4 @@ D:\Vira\OnlineUserManagment\OnlineUserManagment.Domain\obj\Debug\net8.0\OnlineUs
 D:\Vira\OnlineUserManagment\OnlineUserManagment.Domain\obj\Debug\net8.0\refint\OnlineUserManagment.Domain.dll
 D:\Vira\OnlineUserManagment\OnlineUserManagment.Domain\obj\Debug\net8.0\OnlineUserManagment.Domain.pdb
 D:\Vira\OnlineUserManagment\OnlineUserManagment.Domain\obj\Debug\net8.0\ref\OnlineUserManagment.Domain.dll
+D:\Vira\OnlineUserManagment\OnlineUserManagment.Domain\obj\Debug\net8.0\OnlineUserManagment.Domain.sourcelink.json

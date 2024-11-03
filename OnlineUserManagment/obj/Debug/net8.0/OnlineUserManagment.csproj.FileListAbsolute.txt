@@ -102,3 +102,5 @@ D:\Vira\OnlineUserManagment\OnlineUserManagment\obj\Debug\net8.0\refint\OnlineUs
 D:\Vira\OnlineUserManagment\OnlineUserManagment\obj\Debug\net8.0\OnlineUserManagment.pdb
 D:\Vira\OnlineUserManagment\OnlineUserManagment\obj\Debug\net8.0\OnlineUserManagment.genruntimeconfig.cache
 D:\Vira\OnlineUserManagment\OnlineUserManagment\obj\Debug\net8.0\ref\OnlineUserManagment.dll
+D:\Vira\OnlineUserManagment\OnlineUserManagment\bin\Debug\net8.0\LiteDB.dll
+D:\Vira\OnlineUserManagment\OnlineUserManagment\obj\Debug\net8.0\OnlineUserManagment.sourcelink.json

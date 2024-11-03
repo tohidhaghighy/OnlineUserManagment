@@ -4,7 +4,7 @@ using OnlineUserManagment.Domain.Dtos.GetOnlineUser;
 
 namespace OnlineUserManagment.Features.OnlineUser.Queries
 {
-    public class GetOnlineUserCount(IUserTrackingService userTrackingService) : Endpoint<EmptyRequest, GetOnlineUserResponce>
+    public class GetOnlineUserCount(IUserTrackingService userTrackingService, ILiteDBService liteDbService) : Endpoint<EmptyRequest, GetOnlineUserResponce>
     {
         public override void Configure()
         {
@@ -20,7 +20,9 @@ namespace OnlineUserManagment.Features.OnlineUser.Queries
                 await SendAsync(new()
                 {
                     OnlineUserCount = onlineUserCount,
-                    Status=200,
+                    AllUserCount = liteDbService.GetAllUserInfos(),
+                    TodayUserCount = liteDbService.GetTodayProducts(),
+                    Status =200,
                     Massage=""
                 });
             }
@@ -29,6 +31,8 @@ namespace OnlineUserManagment.Features.OnlineUser.Queries
                 await SendAsync(new()
                 {
                     OnlineUserCount = 0,
+                    AllUserCount=0,
+                    TodayUserCount=0,
                     Massage = "",
                     Status = 400
                 });

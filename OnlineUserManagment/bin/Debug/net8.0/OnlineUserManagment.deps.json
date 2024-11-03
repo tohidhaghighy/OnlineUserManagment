@@ -10,6 +10,7 @@
         "dependencies": {
           "FastEndpoints": "5.30.0",
           "FastEndpoints.Swagger": "5.30.0",
+          "LiteDB": "5.0.21",
           "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": "1.21.0",
           "OnlineUserManagment.Domain": "1.0.0",
           "OnlineUserManagment.Infrastructure": "1.0.0",
@@ -65,6 +66,17 @@
           "lib/net8.0/FluentValidation.dll": {
             "assemblyVersion": "11.0.0.0",
             "fileVersion": "11.10.0.0"
+          }
+        }
+      },
+      "LiteDB/5.0.21": {
+        "dependencies": {
+          "System.Buffers": "4.5.1"
+        },
+        "runtime": {
+          "lib/netstandard2.0/LiteDB.dll": {
+            "assemblyVersion": "5.0.21.0",
+            "fileVersion": "5.0.21.0"
           }
         }
       },
@@ -271,6 +283,7 @@
           }
         }
       },
+      "System.Buffers/4.5.1": {},
       "System.Collections/4.3.0": {
         "dependencies": {
           "Microsoft.NETCore.Platforms": "1.1.0",
@@ -487,6 +500,7 @@
       },
       "OnlineUserManagment.Infrastructure/1.0.0": {
         "dependencies": {
+          "LiteDB": "5.0.21",
           "OnlineUserManagment.Domain": "1.0.0",
           "StackExchange.Redis": "2.8.16"
         },
@@ -536,6 +550,13 @@
       "sha512": "sha512-qsJGSJDdZ8qiG+lVJ70PZfJHcEdq8UQZ/tZDXoj78/iHKG6lVKtMJsD11zyyv/IPc7rwqGqnFoFLTNzpo3IPYg==",
       "path": "fluentvalidation/11.10.0",
       "hashPath": "fluentvalidation.11.10.0.nupkg.sha512"
+    },
+    "LiteDB/5.0.21": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-ykJ7ffFl7P9YQKR/PLci6zupiLrsSCNkOTiw6OtzntH7d2kCYp5L1+3a/pksKgTEHcJBoPXFtg7VZSGVBseN9w==",
+      "path": "litedb/5.0.21",
+      "hashPath": "litedb.5.0.21.nupkg.sha512"
     },
     "Microsoft.CSharp/4.3.0": {
       "type": "package",
@@ -711,6 +732,13 @@
       "sha512": "sha512-WaoulkOqOC9jHepca3JZKFTqndCWab5uYS7qCzmiQDlrTkFaDN7eLSlEfHycBxipRnQY9ppZM7QSsWAwUEGblw==",
       "path": "stackexchange.redis/2.8.16",
       "hashPath": "stackexchange.redis.2.8.16.nupkg.sha512"
+    },
+    "System.Buffers/4.5.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Rw7ijyl1qqRS0YQD/WycNst8hUUMgrMH4FCn1nNm27M4VxchZ1js3fVjQaANHO5f3sN4isvP4a+Met9Y4YomAg==",
+      "path": "system.buffers/4.5.1",
+      "hashPath": "system.buffers.4.5.1.nupkg.sha512"
     },
     "System.Collections/4.3.0": {
       "type": "package",

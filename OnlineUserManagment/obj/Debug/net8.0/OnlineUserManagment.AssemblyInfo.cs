@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("OnlineUserManagment")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8aa33832f02a4a3c0e2fcd9caac2725404f96d85")]
 [assembly: System.Reflection.AssemblyProductAttribute("OnlineUserManagment")]
 [assembly: System.Reflection.AssemblyTitleAttribute("OnlineUserManagment")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
