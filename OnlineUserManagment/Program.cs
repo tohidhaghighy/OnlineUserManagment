@@ -18,7 +18,7 @@ builder.Services.AddFastEndpoints().SwaggerDocument();
 builder.Services.AddCors(options =>
 {
     options.AddPolicy("AllowSpecificOrigin",
-        builder => builder.WithOrigins("http://localhost:3000") // Allow specific origin
+        origin => origin.WithOrigins(builder.Configuration["Origin:OriginLink"]) // Allow specific origin
                           .AllowAnyHeader() // Allow any header
                           .AllowAnyMethod()); // Allow any method
 });
